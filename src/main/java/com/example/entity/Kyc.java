@@ -1,6 +1,6 @@
 package com.example.entity;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -26,3 +26,5 @@ public class Kyc {
 
     // Constructor, getters, and setters are handled by Lombok annotations
 }
+
+
